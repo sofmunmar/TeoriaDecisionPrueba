@@ -1,5 +1,6 @@
 ---
 title: "Mi análisis"
+author: "Sofía"
 output: html_document
 date: "2022-09-14"
 ---
